@@ -10,6 +10,10 @@ h1.main{
     align-items: center;
 }
 
+div.main{
+    width:700px
+}
+
 ul{
     background-color: azure;
 }
